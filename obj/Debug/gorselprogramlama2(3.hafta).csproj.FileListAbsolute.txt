@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\gorselprogramlama1\gorselprogramlama2(3.hafta)\obj\Debug\gorselprogramlama2(3.hafta).csproj.AssemblyReference.cache
+C:\Users\user\Desktop\gorselprogramlama1\gorselprogramlama2(3.hafta)\obj\Debug\gorselprogramlama2_3.hafta_.Form1.resources
+C:\Users\user\Desktop\gorselprogramlama1\gorselprogramlama2(3.hafta)\obj\Debug\gorselprogramlama2_3.hafta_.Properties.Resources.resources
+C:\Users\user\Desktop\gorselprogramlama1\gorselprogramlama2(3.hafta)\obj\Debug\gorselprogramlama2(3.hafta).csproj.GenerateResource.cache
+C:\Users\user\Desktop\gorselprogramlama1\gorselprogramlama2(3.hafta)\obj\Debug\gorselprogramlama2(3.hafta).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\gorselprogramlama1\gorselprogramlama2(3.hafta)\bin\Debug\gorselprogramlama2(3.hafta).exe.config
+C:\Users\user\Desktop\gorselprogramlama1\gorselprogramlama2(3.hafta)\bin\Debug\gorselprogramlama2(3.hafta).exe
+C:\Users\user\Desktop\gorselprogramlama1\gorselprogramlama2(3.hafta)\bin\Debug\gorselprogramlama2(3.hafta).pdb
+C:\Users\user\Desktop\gorselprogramlama1\gorselprogramlama2(3.hafta)\obj\Debug\gorselprogramlama2(3.hafta).exe
+C:\Users\user\Desktop\gorselprogramlama1\gorselprogramlama2(3.hafta)\obj\Debug\gorselprogramlama2(3.hafta).pdb
